@@ -1,13 +1,13 @@
 # Techtonica
-This repo is for [the Techtonica website](http://techtonica.org), which is currently hosted on Bluehost.
+This repo is for [the Techtonica website](http://techtonica.org), which is currently hosted on Bluehost. Technotica provide Free tech training with living and childcare stipends and job placement for low-income women and non-binary adults.
 
-### Who
+### Who?
 The main audience of the website is made up of (potential) volunteers and sponsors. (Students will be contacted via local organizations.)
 
-### What
+### What?
 We need to effectively communicate that Techtonica and its students are worth supporting.
 
-### How
+### How?
 There should be a good understanding of how the program works with vetting, training, mentoring, and hiring.
 
 ## Getting Started
